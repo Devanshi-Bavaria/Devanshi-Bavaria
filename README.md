@@ -107,6 +107,7 @@
 <br clear="both">
 
 <h3>Github Contributions</h3>
-![snake gif](https://github.com/Devubavariaa/Devubavariaa/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Devubavariaa/Devubavariaa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###

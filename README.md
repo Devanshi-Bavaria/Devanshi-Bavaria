@@ -16,6 +16,8 @@
 📄 Check out my [**resume**](https://drive.google.com/file/d/1U8PllaW8kW9PURHCj67gb7kD-GmlFlSz/view?usp=sharing)
 
 ➡️ Check out my [**Portfolio**](https://arunima-barik-portfolio.vercel.app/)
+
+💬 Ask me anything regarding my work and code [here](https://github.com/Dev-Khant/Devubavariaa/issues)<br>   (**Please tag me @Devubavariaa in your comment**).
 </div>
 
 <br/>

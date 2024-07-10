@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=nord&&type=horizontalsize="  >
+    <img src="https://quotes-github-readme.vercel.app/api?theme=nord&&type=horizontal&size=20"  >
 </div>
 
 

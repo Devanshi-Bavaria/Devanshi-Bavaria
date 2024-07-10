@@ -7,11 +7,11 @@
 <br/>
 <div align="center">
     
-🔭 I’m currently working on **Full Stack Projects**
+🔭 I’m currently working on <i>Full Stack Projects</i>
 
-🌱 I’m currently learning **Tailwind CSS, React JS and Flask**
+🌱 I’m currently learning <i>Tailwind CSS, React JS and Flask</i>
 
-📫 Reach me out at **bavariadevanshi@gmail.com**
+📫 Reach me out at <i>bavariadevanshi@gmail.com</i>
 
 💬 Ask me anything regarding my work and code [here](https://github.com/Dev-Khant/Devubavariaa/issues)<br>   (**Please tag me @Devubavariaa in your comment**).
 

@@ -17,7 +17,7 @@
 
 📄 Check out my [*resume*](https://drive.google.com/file/d/1U8PllaW8kW9PURHCj67gb7kD-GmlFlSz/view?usp=sharing)
 
-➡️ Check out my [*Portfolio*](https://arunima-barik-portfolio.vercel.app/)
+➡️ Check out my [*Portfolio*](https://devubavariaa.github.io/PORTFOLIO/)
 
 </div>
 

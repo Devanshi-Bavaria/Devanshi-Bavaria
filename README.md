@@ -62,7 +62,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Devubavariaa/Devubavariaa/output/github-contribution-grid-snake.svg" />
   
 </div>
-<br/>
+
 <DIV>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Explore+my+repos!;+Reach+out+to+collaborate!+🚀+🤝;" />

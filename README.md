@@ -5,7 +5,7 @@
 
 <div align="center">
     
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontaltheme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal;theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 

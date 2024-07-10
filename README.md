@@ -20,6 +20,8 @@
 ➡️ Check out my [*Portfolio*](https://devubavariaa.github.io/PORTFOLIO/)
 
 </div>
+<br/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
 <h2 align="center">🔗 Connect with me 🔗</h2>
@@ -60,5 +62,5 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+👋;" />
 </h1>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 

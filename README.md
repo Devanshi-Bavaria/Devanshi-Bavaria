@@ -7,17 +7,17 @@
 <br/>
 <div align="center">
     
-🔭 I’m currently working on <i>Full Stack Projects</i>
+🔭 I’m currently working on *Full Stack Projects*
 
-🌱 I’m currently learning <i>Tailwind CSS, React JS and Flask</i>
+🌱 I’m currently learning *Tailwind CSS, React JS and Flask*
 
-📫 Reach me out at <i>bavariadevanshi@gmail.com</i>
+📫 Reach me out at *bavariadevanshi@gmail.com*
 
-💬 Ask me anything regarding my work and code [here](https://github.com/Dev-Khant/Devubavariaa/issues)<br>   (**Please tag me @Devubavariaa in your comment**).
+💬 Ask me anything regarding my work and code [here](https://github.com/Dev-Khant/Devubavariaa/issues)<br>   (*Please tag me @Devubavariaa in your comment*).
 
-📄 Check out my [**resume**](https://drive.google.com/file/d/1U8PllaW8kW9PURHCj67gb7kD-GmlFlSz/view?usp=sharing)
+📄 Check out my [*resume*](https://drive.google.com/file/d/1U8PllaW8kW9PURHCj67gb7kD-GmlFlSz/view?usp=sharing)
 
-➡️ Check out my [**Portfolio**](https://arunima-barik-portfolio.vercel.app/)
+➡️ Check out my [*Portfolio*](https://arunima-barik-portfolio.vercel.app/)
 
 </div>
 

@@ -4,10 +4,9 @@
 </h1>
 
 <div align="center">
-    
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true style="width: 50%;)](https://github.com/piyushsuthar/github-readme-quotes)
-
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true" alt="readme Quotes" style="width: 50%;">
 </div>
+
 
 
 <h4 align="center">Enthusiastic CSE graduate with a passion for Data Structures & Algorithms, Full Stack Developement and Machine Learning.</h4>

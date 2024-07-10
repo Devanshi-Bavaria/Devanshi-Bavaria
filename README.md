@@ -64,9 +64,9 @@
   
 </div>
 <br/>
-
+<DIV>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=19&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Explore+my+repos+and+reach+out+to+collaborate!+🚀+🤝;" />
-</h3>
+</h3></DIV>
 
 

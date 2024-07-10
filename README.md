@@ -7,11 +7,6 @@
     <img src="https://quotes-github-readme.vercel.app/api?theme=nord&&type=horizontal"  >
 </div>
 
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=trueMake%20it%20work,%20make%20it%20right,%20make%20it%20fast.%20%E2%80%93%20Kent%20Beck" alt="readme Quotes" style="width: 50%;">
-</div>
-
-
 
 
 <h4 align="center">Enthusiastic CSE graduate with a passion for Data Structures & Algorithms, Full Stack Developement and Machine Learning.</h4>

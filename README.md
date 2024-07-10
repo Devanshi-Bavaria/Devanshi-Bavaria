@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true&quote=Make%20it%20work,%20make%20it%20right,%20make%20it%20fast.%20%E2%80%93%20Kent%20Beck" alt="readme Quotes" style="width: 50%;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=trueMake%20it%20work,%20make%20it%20right,%20make%20it%20fast.%20%E2%80%93%20Kent%20Beck" alt="readme Quotes" style="width: 50%;">
 </div>
 
 

@@ -3,12 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Devanshi+Bavaria!;" />
 </h1>
 
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=nord&&type=horizontal&size=15"  >
-</div>
-
-
-
 <h4 align="center">Enthusiastic CSE graduate with a passion for Data Structures & Algorithms, Full Stack Developement and Machine Learning.</h4>
 
 <br/>
@@ -67,5 +61,10 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Explore+my+repos!;+Reach+out+to+collaborate!+🚀+🤝;" />
 </h3></DIV>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devubavariaa&show_icons=true&locale=en" alt="devubavariaa" />
+  
+</div>
 
 

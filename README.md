@@ -51,20 +51,33 @@
 <br/>
 
 <div align="center">
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devubavariaa&show_icons=true&locale=en" alt="devubavariaa" />
+</p>
+</div>
+
+<br/>
+<div align="center">
+<h2 align="center">⭐️ Top Languages ⭐️</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devubavariaa" width="400"/>
+</p>
+</div>
+
+<br/>
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Devubavariaa/Devubavariaa/output/github-contribution-grid-snake.svg" />
   
 </div>
 
+<br/>
 <DIV>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Explore+my+repos!;+Reach+out+to+collaborate!+🚀+🤝;" />
 </h3></DIV>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devubavariaa&show_icons=true&locale=en" alt="devubavariaa" />
-  
-</div>
 
 

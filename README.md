@@ -61,7 +61,7 @@
 <div align="center">
 <h2 align="center">⭐️ Top Languages ⭐️</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devubavariaa" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devubavariaa" width="350"/>
 </p>
 </div>
 

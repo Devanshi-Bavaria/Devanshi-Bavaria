@@ -32,12 +32,12 @@
   <a href="https://www.linkedin.com/in/devanshi-bavaria-2a1488231/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/devanshibavaria">
+<!--   <a href="https://www.kaggle.com/devanshibavaria">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/devuubavaria/">
+  </a> -->
+<!--   <a href="https://leetcode.com/u/devuubavaria/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  </a> -->
 </div>
 
 <br/>

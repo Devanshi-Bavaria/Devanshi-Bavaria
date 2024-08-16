@@ -50,7 +50,7 @@
 <div align="center">
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devubavariaa&show_icons=true&locale=en" alt="devubavariaa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devanshi-Bavaria&show_icons=true&locale=en" alt="Devanshi-Bavaria" />
 </p>
 </div>
 
@@ -60,7 +60,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Devubavariaa/Devubavariaa/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Devanshi-Bavaria/Devanshi-Bavaria/output/github-contribution-grid-snake.svg" />
   
 </div>
 

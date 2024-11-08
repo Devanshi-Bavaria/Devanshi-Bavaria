@@ -68,7 +68,11 @@
 <DIV>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Explore+my+repos!;+Reach+out+to+collaborate!+🚀+🤝;" />
+
+[![](https://visitcount.itsvg.in/api?id=Devanshi-Bavaria&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github.com/Devanshi-Bavaria) 
+    
 </h3></DIV>
+
 
 
 

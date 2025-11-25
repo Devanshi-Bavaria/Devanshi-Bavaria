@@ -16,7 +16,6 @@
 
 💬 Ask me anything regarding my work and code [here](https://github.com/Devubavariaa/Devubavariaa/issues)<br>   (*Please tag me @Devubavariaa in your comment*).
 
-📄 Check out my [*resume*]()
 
 ➡️ Check out my [*Portfolio*](https://devanshi-bavaria.github.io/PORTFOLIO/)
 
